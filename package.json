@@ -1,0 +1,27 @@
+{
+  "name": "someservice",
+  "version": "0.0.0",
+  "description": "Some Service ===========",
+  "main": "gs-someservice.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.7.2"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@bitbucket.org/chuco/sms.git"
+  },
+  "keywords": [
+  ],
+  "author": "Matthew 'Skip' Rotter",
+  "license": "BSD"
+}
